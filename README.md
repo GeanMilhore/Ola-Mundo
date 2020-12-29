@@ -3,4 +3,4 @@
 
 Repositório criando durante uma aula ao vivo!
 
-Essa linha eu adicionei diretamente no site do GitHub!!!
+Arquivo feito para teste sobre o a *linguagem de marcação* **markdown**
